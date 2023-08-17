@@ -2,7 +2,6 @@ n = int(input())
 ans = 0
 seq = list()
 
-
 def is_beautiful():
     i = 0
     while i < n:
